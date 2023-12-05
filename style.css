@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-left: auto;
+}
+
+th, td {
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+th {
+  background-color: pink;
+}
+.container {
+    margin-left: 40px;
+   
+}
